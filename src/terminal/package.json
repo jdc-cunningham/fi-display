@@ -1,10 +1,12 @@
 {
   "name": "fi-display",
   "version": "1.0.0",
-  "main": "run.js",
+  "main": "dist/run.js",
   "type": "module",
   "scripts": {
-    "start": "node run.js"
+    "build": "tsc",
+    "start": "npm run build && node dist/run.js",
+    "dev": "node --watch run.ts"
   },
   "devDependencies": {
     "@types/node": "^26.6.6",

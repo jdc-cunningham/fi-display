@@ -3,3 +3,4 @@ fi-display.db
 
 # folders
 node_modules/
+dist/

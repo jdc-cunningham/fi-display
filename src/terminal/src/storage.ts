@@ -9,7 +9,7 @@ const db: DatabaseSync = new DatabaseSync(dbPath);
 // and storing just 2 digits like a monthly payment could be
 // confused for cents by an automatic 2 decimal places
 // these will be integers or decimals but no symbols
-const initTables = () => {
+export const initTables = () => {
   // credit cards
   db.exec(`
     CREATE TABLE IF NOT EXISTS credit_cards (
@@ -57,9 +57,9 @@ const initTables = () => {
   `);
 };
 
-const checkDbExists = async (): Promise<boolean> => {
+export const checkDbExists = async (): Promise<boolean> => {
   try {
-    await access('./fi-display.db');
+    await access(dbPath);
     return true;
   } catch {
     return false;
@@ -67,6 +67,17 @@ const checkDbExists = async (): Promise<boolean> => {
 };
 
 // lazy since table creation above is all in one
-const checkTablesExist = (): Promise<boolean> => {
-  
+export const checkTablesExist = (): boolean => {
+  const tables: string[] = ["credit_cards", "loans", "cash", "assets"];
+
+  const missingTable: boolean = tables.some((table: string) => {
+    const row = db.prepare(
+      "SELECT name FROM sqlite_master WHERE type = 'table' AND name = ?"
+    )
+    .get(table);
+
+    return row;
+  });
+
+  return !missingTable;
 };
