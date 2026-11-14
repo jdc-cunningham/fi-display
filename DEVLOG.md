@@ -1,4 +1,4 @@
-- store data
+- store data (sqlite)
 - script that generates HTML page
 - put on Apache RPi server
 
@@ -23,3 +23,8 @@ This particular app is going to be a terminal-based interface that can take in/u
 Then you run a script and it produces a new HTML file with an associated script to self refresh not sure how reliable `setTimeout` is
 
 There are other options like web workers but yeah
+
+I'm using node as it's the fastest language I know as far as me writing it
+
+Sqlite is a nice lazy database
+
