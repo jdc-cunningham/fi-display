@@ -1,6 +1,21 @@
-- store data (sqlite)
-- script that generates HTML page
-- put on Apache RPi server
+- [ ] CRUD
+  - [ ] create (sqlite)
+    - [ ] store credit card
+    - [ ] store loan
+    - [ ] store cash
+    - [ ] store asset
+- [ ] update
+    - [ ] credit card
+    - [ ] loan
+    - [ ] cash
+    - [ ] asset
+- [ ] delete
+    - [ ] credit card
+    - [ ] loan
+    - [ ] cash
+    - [ ] asset
+- [ ] script that generates HTML page
+- [ ] put on Apache RPi server
 
 ### 11/14/2026 Saturday
 
@@ -146,3 +161,40 @@ Damn I haven't listened to this music in a while like New Jacket Literature
 
 Chill vibes
 
+5:19 PM
+
+Man yeah... this was like my favorite song for a while Sunder Hibou makes me think optimistically
+
+I'm living in the city that's what I regret about my life at this point, I've been living secluded
+
+I'm going to fix it soon hopefully
+
+Oh yeah Near Sleeper Plums fahhhhh good shit
+
+I'm in a good mental state right now I'm only thinking about this right now
+
+5:26 PM
+
+Innocent love... yeah this playlist is a banger Newer Chill Music on my Spotify
+
+5:29 PM
+
+I've been struggling with motivation for a while maybe it's from drinking but you know anhedonia
+
+Couldn't even watch TV/anime just hard to get into anything
+
+The nice thing about alcohol I mean it's a good time, a great time
+
+In the 5 months I went out I interacted with hundreds of people, made new short term friends
+
+I lived... I stop thinking/worrying about shit and just be in the moment
+
+When I learned coding in college I didn't care about it at that time, took C++ and Java I got a B+ and C respectively
+
+Later on though I got the drive to try and make money from Google ad revenue, I started making a bunch
+
+of websites like dating sites, that was a huge learning curve, what is DNS, SSL, a VPS, bound parameter
+
+etc... I didn't succeed in getting rich but eventually I got a job in the field
+
+I'm losing momentum here need another win/small goal
