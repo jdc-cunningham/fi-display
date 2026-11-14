@@ -1,31 +1,31 @@
-interface CreditCard {
+export interface CreditCard {
   name: string,
   balance: number,
   minDue: number,
   dueDate: number,
-  isClosed: boolean,
+  isClosed: number, // boolean 0 or 1
   apr: number,
-  creditLimit: number
+  limit: number
 };
 
-interface Loan {
+export interface Loan {
   name: string,
   amount: number,
   balance: number,
   minDue: number,
   dueDate: number,
-  isClosed: boolean,
+  isClosed: number, // boolean 0 or 1
   apr: number
 };
 
-interface Cash {
+export interface Cash {
   name: string,
   amount: number
 };
 
 // this is interesting because of depreciation
 // eBay based values that change in my case old camera lenses or old computers
-interface Asset {
+export interface Asset {
   name: string,
   value: number
 };
@@ -36,12 +36,12 @@ interface Asset {
 // in my immediate future I'm more concerned about saving
 // cash than stock, although I would like to buy some
 // as a way to hide money from myself
-interface Stock {
+export interface Stock {
   name: string,
   shares: number
 };
 
-interface Crypto {
+export interface Crypto {
   name: string,
   qty: number
 };

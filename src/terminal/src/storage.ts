@@ -1,6 +1,7 @@
 import { DatabaseSync } from "node:sqlite";
 import { existsSync } from "node:fs";
 import { access } from "node:fs/promises";
+import type { CreditCard } from "./models.ts";
 
 const dbPath: string = "./fi-display.db";
 const db: DatabaseSync = new DatabaseSync(dbPath);
@@ -20,7 +21,7 @@ export const initTables = () => {
       due_date INTEGER NOT NULL,
       is_closed INTEGER NOT NULL,
       apr TEXT NOT NULL,
-      credit_limit TEXT NOT NULL
+      "limit" TEXT NOT NULL
     )
   `);
 
@@ -76,8 +77,34 @@ export const checkTablesExist = (): boolean => {
     )
     .get(table);
 
-    return row;
+    return !row;
   });
 
   return !missingTable;
+};
+
+export const insertCreditCard = (creditCard: CreditCard): boolean => {
+  try {
+    // probably cleaner way to do this
+    const insert = db.prepare(`
+      INSERT INTO credit_card (
+        name, balance, min_due, due_date, is_closed, apr, limit
+      ) VALUES (?, ?, ?, ?, ?, ?, ?)
+    `);
+
+    insert.run(
+      creditCard.name,
+      creditCard.balance,
+      creditCard.minDue,
+      creditCard.dueDate,
+      creditCard.isClosed,
+      creditCard.apr,
+      creditCard.limit
+    );
+
+    return true;
+  } catch (error) {
+    console.error(error);
+    return false;
+  }
 };

@@ -131,3 +131,18 @@ I played with RC planes as a kid
 Alright done reminiscining I'm making progress with the initial models/interfaces and setting up
 
 DB calls
+
+4:48 PM
+
+Damn this sqlite viewer extension interface is nice
+
+Little boxes on screen activate monke neurons
+
+Oh man this is a good one, Narcissistic Cannibal
+
+5:09 PM
+
+Damn I haven't listened to this music in a while like New Jacket Literature
+
+Chill vibes
+
