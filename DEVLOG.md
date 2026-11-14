@@ -78,4 +78,56 @@ This is why I want a thing that displays my finance status all the time so I don
 
 Fahhh here we go, "I... I am confused..." good song Korn Need To
 
+Ehh I should use typescript need to get that down, typing is good
 
+3:25 PM
+
+Making some progress my arms hurt from working out lol and I'm just using body weight/a 30 lb exercise band
+
+I think it's the posture more than anything that's getting me (raised right angle to type)
+
+3:38 PM
+
+I forgot to write about this but I don't trust myself with money eg. I'll go ou and burn it all
+
+So my most recent paycheck I had a friend hold onto $1.6K for me so I can make sure I have my
+
+downpayment for my new apt that I'll move into at the start of Dec.
+
+It's bad having only one source of income and no savings, I mean you're f'd if you lose your job
+
+I have stuff to sell but it's not much and I have to worry about packaging it/getting it
+
+to the post office
+
+I'd like to be able to go out and not get f'd up where I lose control
+
+It's hard because I have this mindset/mentality where I have to "reach a state" to have a good time
+
+That state is like 10 long islands (after a big meal) and then I start to have a buzz
+
+That's why my bar tabs sometimes are over $100 for one place and I hop around all over
+
+Usually I'd go out for 6 sometimes more than 1 day partying overnight, there's a place
+
+that opens at 6:30 in the morning and serve alcohol so I'd last till then and continue into
+
+Sunday afternoon it's bad, at that point you're done, mentally done just on
+
+I would start to get heart burn too like it hurts to drink alcohol as my throat burns
+
+I think my main regret from binge drinking is I probably made myself dumb
+
+I was a physics and engineering student, in my calc classes I got A's and B's when I was a frehsman
+
+Granted that math is easy but later on I became a C student and I just started failing classes
+
+I didn't finish college but I was lucky I got into computers as I wasn't exposed to them
+
+Until I was in college so it's not like I wrote code when I was a kid/highschooler
+
+I played with RC planes as a kid
+
+Alright done reminiscining I'm making progress with the initial models/interfaces and setting up
+
+DB calls
