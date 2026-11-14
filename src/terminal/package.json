@@ -1,0 +1,13 @@
+{
+  "name": "fi-display",
+  "version": "1.0.0",
+  "main": "run.js",
+  "type": "module",
+  "scripts": {
+    "start": "node run.js"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "typescript": "^7.0.2"
+  }
+}

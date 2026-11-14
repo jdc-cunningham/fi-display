@@ -40,3 +40,8 @@ interface Stock {
   name: string,
   shares: number
 };
+
+interface Crypto {
+  name: string,
+  qty: number
+};
