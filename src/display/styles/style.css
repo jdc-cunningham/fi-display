@@ -45,10 +45,12 @@ section h2#net-worth, section h2#total-debt {
 
 section h2#cash {
   color: green;
+  text-indent: 3rem; /* if positive */
 }
 
 section h2#other-cash {
   color:orange;
+  text-indent: 3rem; /* if positive */
 }
 
 @media (max-width: 1024px) and (max-height: 600px) {
