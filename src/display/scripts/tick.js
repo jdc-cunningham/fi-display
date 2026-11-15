@@ -9,9 +9,11 @@ const ticker = () => {
     i = 0;
   }
 
+  console.log('tick');
+
   if (i % 5 === 0) {
     postMessage('5 second tick');
-    setTimeout(ticker, 60000);
+    setTimeout(ticker, 1000);
   }
 };
 
