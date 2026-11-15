@@ -259,3 +259,11 @@ That's why I don't eat for the first 8 hrs of a day and just subsist on caffeine
 I had a thought though, there needs to be history so the updated data needs to be new rows
 
 I need to add another table that tracks balances...
+
+7:55 PM
+
+One thing that's annoying is I usually get paid on Fridays and when you do payments
+
+Like a payment to a credit card, the balance update takes a while, so I'll have to do the offset
+
+eg. update values on the 5th and 20th of the month based on a bi-weekly pay schedule
