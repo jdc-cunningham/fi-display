@@ -53,10 +53,10 @@ section h2#other-cash {
 
 @media (max-width: 1020px) and (max-height: 471px) {
   section h3 {
-    font-size: 3rem;
+    font-size: 2rem;
   }
   
   section h2 {
-    font-size: 5rem;
+    font-size: 4rem;
   }
 }

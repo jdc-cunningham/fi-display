@@ -136,6 +136,10 @@ First attempt is too big, also I may prefer dark background
 
 <img src="./devlog-images/first-try.png"/>
 
+4:33 PM
+
+Interesting F11 (full screen) makes it too big
+
 
 
 ---
