@@ -15,7 +15,8 @@
     - [ ] loan
     - [ ] cash
     - [ ] asset
-- [ ] script that generates HTML page
+- [x] basic HTML page design (11/15/2026)
+- [ ] script that updates HTML page
 - [ ] put on Apache RPi server
 
 ### 11/15/2026 Sunday
@@ -161,6 +162,36 @@ Fahh... alright since I'm running this on a 192 ip address the worker won't work
 5:02 PM
 
 I wanted to use a web worker because the setTimeout/interval stuff stops working eventaully or lags... but I'm not going to setup a server... I could do localhost I guess but ehh
+
+5:09 PM
+
+I'm losing drive already damn
+
+Hmm... I need to cook/feeling hungry even though I've only been up like 6 hours
+
+The counter thing, if the page refreshes the cummulative days are lost
+
+So really I need to have a "last updated" field to count days/seconds from
+
+epoch is the easiest thing to work with just seconds
+
+also if you use date now to get epoch then don't need to count just difference
+
+between past date and now
+
+but then what you need is a rate of growth
+
+go from yearly APR to month down to seconds then multiply
+
+sum all the individual values
+
+gotta think about it
+
+5:23 PM
+
+Fahhh this is work
+
+
 
 ---
 
