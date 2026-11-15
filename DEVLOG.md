@@ -90,6 +90,20 @@ For assets looks like I have just over $1K of resellable lenses and assuming 35%
 
 if I really want to sell em it's like $703 and yeah my debt is around $95.6K
 
+3:16 PM
+
+Yeah I am not feeling motivated but I need to lock in and get this display built
+
+I like the web worker stuff it gives the web page life when it self updates.
+
+3:27 PM
+
+Ooh this is a good one Taking What's Not Yours gotta sing that on Karaoke one day
+
+3:28 PM
+
+Quick break need to water my plants
+
 ---
 
 ### 11/14/2026 Saturday
