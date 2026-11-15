@@ -1,7 +1,7 @@
 if (window.Worker) {
   const workerTicker = new Worker('./tick.js');
 
-  workerClock.onmessage = (event) => {
+  workerTicker.onmessage = (event) => {
     console.log(event.data);
   };
 }
