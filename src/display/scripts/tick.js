@@ -2,6 +2,8 @@ let i = 0;
 const curSec = new Date().getSeconds();
 const curMsec = parseInt((60 - curSec).toString() + '000');
 
+console.log('tick run');
+
 const ticker = () => {
   i++;
 
