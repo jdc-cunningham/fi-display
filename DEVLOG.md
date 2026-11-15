@@ -154,6 +154,10 @@ What I want is that animated up/down ticker
 
 Ahh I gotta do that math part so it has life... I will do the web worker part first
 
+4:56 PM
+
+Fahh... alright since I'm running this on a 192 ip address the worker won't work
+
 
 
 ---
