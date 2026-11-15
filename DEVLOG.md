@@ -150,6 +150,10 @@ I have given away over $100K to family in my lifetime so far
 
 <img src="./devlog-images/dark-mode.png"/>
 
+What I want is that animated up/down ticker
+
+Ahh I gotta do that math part so it has life... I will do the web worker part first
+
 
 
 ---
