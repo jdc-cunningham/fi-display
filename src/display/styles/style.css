@@ -51,12 +51,12 @@ section h2#other-cash {
   color:orange;
 }
 
-@media (max-width: 1020px) and (max-height: 471px) {
+@media (max-width: 1024px) and (max-height: 600px) {
   section h3 {
-    font-size: 2rem;
+    font-size: 3rem;
   }
   
   section h2 {
-    font-size: 4rem;
+    font-size: 5rem;
   }
 }
