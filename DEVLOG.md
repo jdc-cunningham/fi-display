@@ -18,6 +18,54 @@
 - [ ] script that generates HTML page
 - [ ] put on Apache RPi server
 
+### 11/15/2026 Sunday
+
+2:17 PM
+
+Working out is really important, for me especially
+
+It's a natural "make me feel good" thing
+
+I woke up today kind of in a lull, I felt at ease, calm you know
+
+Which isn't a bad thing but I also had no motivation
+
+I didn't want to work out, but I make myself work out
+
+Right now I'm doing body weight and elastic band:
+
+- 10 squats
+- 30 pushups in a specific position (wide, tri, inner)
+- front and side laterla raise (band)
+- hand stand dips against a wall
+- 10 situps
+
+It's not much but I do that 30 times, right now I can't go to a gym so this works
+
+And yeah by the third set I'm feeling it, like sweating, I actually open a window to let more air in
+
+Today I'm going to work on HTML, I am going to have a file eg. `values.js` or something like that
+
+This will get read by the HTML template
+
+I will add a webworker 5 second counter updater thing
+
+This will show my debt growing in real time
+
+I have a very basic design in mind...
+
+The ASUS Eee PC 1000HA display is a 10" display (diagonal) so it's not big
+
+<img src="./devlog-images/basic-html-design.png"/>
+
+It will have labels like "net worth" but you can see the majority of the screen is taken up
+
+by big numbers
+
+Going to write down the values on a Google Spreadsheet then have them here
+
+---
+
 ### 11/14/2026 Saturday
 
 2:05 PM
