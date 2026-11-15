@@ -118,6 +118,24 @@ Ahhh overwhelming myself need to work on the display first then dynamic live int
 
 Ooh another good song Let Go RAC
 
+4:11 PM
+
+Alright I've got something displayable will put it on my Pi 4B 4GB server and show it on the Eee PC that is constantly on.
+
+That keeps going down... I'll put it on the picam for now
+
+That one is the farthest pi away even though it's just a Pi Zero I have higher confidence in it
+
+4:17 PM
+
+Oh shhiiiii another good song The Basement Lunar Vacation
+
+4:25 PM
+
+First attempt is too big, also I may prefer dark background
+
+<img src="./devlog-images/first-try.png"/>
+
 
 
 ---
