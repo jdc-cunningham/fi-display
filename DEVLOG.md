@@ -158,7 +158,9 @@ Ahh I gotta do that math part so it has life... I will do the web worker part fi
 
 Fahh... alright since I'm running this on a 192 ip address the worker won't work
 
+5:02 PM
 
+I wanted to use a web worker because the setTimeout/interval stuff stops working eventaully or lags... but I'm not going to setup a server... I could do localhost I guess but ehh
 
 ---
 
