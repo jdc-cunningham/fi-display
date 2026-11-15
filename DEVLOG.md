@@ -140,6 +140,16 @@ First attempt is too big, also I may prefer dark background
 
 Interesting F11 (full screen) makes it too big
 
+4:38 PM
+
+Lol people asking me for money "sure bro I'm only $95,500 in debt" but yeah I can help you
+
+Meanwhile I can be homeless myself since I'm a dumbass and have no savings living check to check
+
+I have given away over $100K to family in my lifetime so far
+
+<img src="./devlog-images/dark-mode.png"/>
+
 
 
 ---
