@@ -64,6 +64,32 @@ by big numbers
 
 Going to write down the values on a Google Spreadsheet then have them here
 
+2:46 PM
+
+That moment when you realize your bank account balance will be negative come Monday when
+
+all the scheduled payments go through
+
+it's alright I think I fixed it... I set aside $1,575.00 so that's good.
+
+2:54 PM
+
+It's pretty bad I'll have auto payments get charged back and they're not even that much
+
+Like $146 here $114 there
+
+Will add a line in there for money from credit limit, I don't want to consider it part of cash
+
+Just know that I do have that option
+
+Alright I've got the values
+
+3:08 PM
+
+For assets looks like I have just over $1K of resellable lenses and assuming 35% loss
+
+if I really want to sell em it's like $703 and yeah my debt is around $95.6K
+
 ---
 
 ### 11/14/2026 Saturday
