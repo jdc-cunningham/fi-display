@@ -198,3 +198,35 @@ of websites like dating sites, that was a huge learning curve, what is DNS, SSL,
 etc... I didn't succeed in getting rich but eventually I got a job in the field
 
 I'm losing momentum here need another win/small goal
+
+5:40 PM
+
+This work is boilerplate the CRUD I get that, use AI to finish it
+
+I derive joy from writing code, being engaged
+
+But there is also that wall you have to overcome you see the work that has to be done
+
+What is the alternative though watching YouTube I guess or anime
+
+I can't go out until sometime in December to make sure I get moved into my new apt and have spare money
+
+for whatever happens, I'm lucky my friend will help me move, I cancelled my car insurance so can't drive
+
+the u-haul van myself
+
+Fahhhhh I am losing momentum here though, thinking about eating
+
+I need to get the credit card insert working at least
+
+A terminal does suck for an interface vs. a form
+
+5:47 PM
+
+What I can do for a win today is to make the HTML dislay part with hardcoded/real current values
+
+5:53 PM
+
+Nooo I opened YouTube side tracked
+
+Okay trying to store a credit card so need step by step prompts to get the values

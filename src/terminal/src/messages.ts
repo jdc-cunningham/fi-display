@@ -1,5 +1,6 @@
 import * as readline from "node:readline/promises";
 import { stdin as input, stdout as output } from "node:process";
+import type { CreditCard } from "./models.ts";
 
 export const welcomeMsg = () => {
   console.log("Available commands:");
@@ -24,4 +25,54 @@ export const askInitCommand = async (): Promise<number> => {
     console.log("Invalid choice");
     return -1;
   }
+};
+
+export const enterCreditCardInfo = async (): Promise<boolean> => {
+  console.log("Enter credit card info:");
+
+  const prompts = [
+    "Name:",
+    "Balance: (0,000.00)",
+    "Mininum Due:",
+    "Due Date: (00)",
+    "Is Closed (y/n):",
+    "apr (00.00):",
+    "limit (0,000.00):"
+  ];
+  
+  // I don't like how this works, should be type and input validation
+
+  const userCardDetails = await Promise.all(
+    prompts.map(async (prompt, index) => {
+      const rl = readline.createInterface({ input, output });
+      const response = await rl.question(prompt);
+      rl.close();
+
+      if (index > 0) {
+        if (index === 2) {
+          return parseInt(response);
+        } else {
+          return parseFloat(response);
+        }
+      } else {
+        return response;
+      }
+    })
+  );
+
+  console.log(userCardDetails);
+
+  // const cardInfo: CreditCard = {
+  //   // name: userCardDetails[0],
+  //   // balance: userCardDetails[1],
+  //   // minDue: userCardDetails[2],
+  //   // dueDate: userCardDetails[3],
+  //   // isClosed: userCardDetails[4],
+  //   // apr: userCardDetails[5],
+  //   // limit: userCardDetails[6]
+  // };
+
+  // return cardInfo;
+
+  return true;
 };

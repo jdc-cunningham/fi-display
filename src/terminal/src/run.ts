@@ -5,6 +5,7 @@ import {
   processChoiceViewAllData, processChoiceHelp
 } from "./process.ts";
 
+// setup DB and tables
 if (!await checkDbExists()) {
   throw new Error("Database doesn't exist, see storage.ts");
 }
@@ -21,9 +22,9 @@ if (!checkTablesExist()) {
 // welcome message
 // choose 1-5 or help
 welcomeMsg();
-const choice = await askInitCommand();
+const choice: number = await askInitCommand();
 
-const choiceMap = [
+const choiceMap: Function[] = [
   processChoiceHelp,
   processChoiceViewAllData,
   processChoiceCash,
@@ -32,4 +33,10 @@ const choiceMap = [
   processChoiceAsset
 ];
 
-choiceMap[choice];
+const userChoice = choiceMap[choice];
+
+if (!userChoice) {
+  console.error("Invalid choice");
+} else {
+  userChoice();
+}
