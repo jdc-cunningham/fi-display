@@ -230,3 +230,11 @@ What I can do for a win today is to make the HTML dislay part with hardcoded/rea
 Nooo I opened YouTube side tracked
 
 Okay trying to store a credit card so need step by step prompts to get the values
+
+6:27 PM
+
+I'm gonna chill
+
+Right now I've got a prompt asking for info, need to add validation/retry if invalid then save
+
+I might come back to this later tonight
