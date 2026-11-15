@@ -1,3 +1,5 @@
+console.log('worker script');
+
 if (window.Worker) {
   console.log('in worker');
   const workerTicker = new Worker('./tick.js');
