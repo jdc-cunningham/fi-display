@@ -238,3 +238,13 @@ I'm gonna chill
 Right now I've got a prompt asking for info, need to add validation/retry if invalid then save
 
 I might come back to this later tonight
+
+6:48 PM
+
+I'm chilling now but I was thinking
+
+Ultimately at least right now I have one source of income
+
+And with known bills/subtractions I should have an expected balance end of month
+
+The main goal being ont living check to check so I should start building my "cash/savings"
