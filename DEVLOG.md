@@ -4,6 +4,7 @@
     - [ ] store loan
     - [ ] store cash
     - [ ] store asset
+    - [ ] add new table for balance updates
 - [ ] update
     - [ ] credit card
     - [ ] loan
@@ -248,3 +249,13 @@ Ultimately at least right now I have one source of income
 And with known bills/subtractions I should have an expected balance end of month
 
 The main goal being ont living check to check so I should start building my "cash/savings"
+
+7:51 PM
+
+When I eat it's over... no more motivation to do stuff
+
+That's why I don't eat for the first 8 hrs of a day and just subsist on caffeine
+
+I had a thought though, there needs to be history so the updated data needs to be new rows
+
+I need to add another table that tracks balances...
