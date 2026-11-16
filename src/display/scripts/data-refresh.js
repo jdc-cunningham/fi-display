@@ -1,7 +1,9 @@
 let timer = null;
 
 const pulse = () => {
-  console.log('pulse');
+  const change = document.getElementById("change");
+  const aprGrowth = calcTotalAprGain();
+  change.innerText = aprGrowth;
   clearTimeout(timer);
   timer = setTimeout(pulse, 5000);
 };

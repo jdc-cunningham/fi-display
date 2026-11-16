@@ -39,7 +39,7 @@ section h2 {
   text-indent: 1rem;
 }
 
-section h2#net-worth, section h2#total-debt {
+section h2#net-worth, section h2#total-debt, section h2#change {
   color: firebrick;
 }
 

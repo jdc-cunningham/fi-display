@@ -191,7 +191,29 @@ gotta think about it
 
 Fahhh this is work
 
+5:32 PM
 
+Yeah I just gotta write the logic to calculate growth by APR based on the balance and APR by the second so it can be multiplied against elapsed time since last update
+
+5:49 PM
+
+These numbers are not intended to be perfect
+
+Some of my accounts are closed for example and the APR is weird it's like either not
+
+active or very low like 1%.
+
+The point of it is to show that it's growing you know so it's in my mind
+
+6:00 PM
+
+Alright so I've got some code, I added another line to the laptop display
+
+My monthly growth in debt is estimated to be like $881.83 and so daily would be something like $28.45
+
+That's what I'll check, there isn't a way to tell when the growht is I know in the code I put a value in there hard coded
+
+I suppose it works as a general reminder
 
 ---
 

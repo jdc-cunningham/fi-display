@@ -3,11 +3,6 @@ const totalDebt = document.getElementById("total-debt");
 const cash = document.getElementById("cash");
 const otherCash = document.getElementById("other-cash");
 
-const usdFormatter = new Intl.NumberFormat('en-US', {
-  style: 'currency',
-  currency: 'USD'
-});
-
 // set values
 const netWorthCalc = financeValues.cash + (-1 * financeValues.creditCardsDebt) + (-1 * financeValues.loans);
 netWorth.innerText = usdFormatter.format(netWorthCalc);
