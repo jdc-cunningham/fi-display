@@ -48,6 +48,11 @@ section h2#cash {
   text-indent: 3rem; /* if positive */
 }
 
+section h2#credit {
+  color: yellow;
+  text-indent: 3rem;
+}
+
 section h2#other-cash {
   color:orange;
   text-indent: 3rem; /* if positive */
