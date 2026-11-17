@@ -26,5 +26,5 @@ const calcTotalAprGain = () => {
     aprSecGain += (calcAPRSecGrowth(loan.balance, loan.apr) * elapsedTime);
   });
 
-  return usdFormatter.format(-1 * aprSecGain);
+  return aprSecGain;
 };

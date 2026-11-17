@@ -19,6 +19,20 @@
 - [ ] script that updates HTML page
 - [ ] put on Apache RPi server
 
+### 11/16/2026 Monday
+
+8:23 PM
+
+Pretty tired today not doing much
+
+I did want to also have the debt and net worth change along with the change counter
+
+8:34 PM
+
+I do want to add credit as a separate line
+
+---
+
 ### 11/15/2026 Sunday
 
 2:17 PM

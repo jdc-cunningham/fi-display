@@ -6,8 +6,8 @@ const otherCash = document.getElementById("other-cash");
 // set values
 const netWorthCalc = financeValues.cash + (-1 * financeValues.creditCardsDebt) + (-1 * financeValues.loans);
 netWorth.innerText = usdFormatter.format(netWorthCalc);
-const totalDebtCalc = financeValues.creditCardsDebt + financeValues.loans;
-totalDebt.innerText = usdFormatter.format(-1 * totalDebtCalc);
+const totalDebtCalc = (-1 * financeValues.creditCardsDebt) + (-1 * financeValues.loans);
+totalDebt.innerText = usdFormatter.format(totalDebtCalc);
 cash.innerText = usdFormatter.format(financeValues.cash);
 const otherCashCalc = financeValues.cash + financeValues.creditCardsAvail + financeValues.assets;
 otherCash.innerText = usdFormatter.format(otherCashCalc);
