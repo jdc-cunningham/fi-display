@@ -1,11 +1,11 @@
 const lastUpdated = 1794784951263; // ms
 
 const financeValues = {
-  "cash": 25.78,
+  "cash": 587.57,
   "creditCardsDebt": 28718.76,
   "creditCardsAvail": 247.44,
   "loans": 66832.89,
-  "assets": 703
+  "assets": 2403.00
 };
 
 const creditCards = [

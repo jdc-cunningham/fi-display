@@ -1,0 +1,23 @@
+const lastUpdated = 1794784951263; // ms
+
+const financeValues = {
+  "cash": 0.00,
+  "creditCardsDebt": 0.00,
+  "creditCardsAvail": 0.00,
+  "loans": 0.00,
+  "assets": 0.00
+};
+
+const creditCards = [
+  {
+    "balance": 0.00,
+    "apr": 0.00
+  }
+];
+
+const loans = [
+  {
+    "balance": 0.00,
+    "apr": 0.00
+  }
+];
