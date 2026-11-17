@@ -31,6 +31,14 @@ I did want to also have the debt and net worth change along with the change coun
 
 I do want to add credit as a separate line
 
+8:42 PM
+
+Not much but it's something
+
+I was hoping to get the X220 in today but didn't happen
+
+Need to design and build JDC35 camera so I have it at new apt
+
 ---
 
 ### 11/15/2026 Sunday
